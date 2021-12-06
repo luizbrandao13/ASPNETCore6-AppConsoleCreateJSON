@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUWB9uauCsLd3K6A7jSjfbE8dOAvENYSMl4XY+BNcYgvdcC/ygk8reVAlOM8kyYw72WTgSh/aRbYikyzsozYJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Projeto01\\Projeto01\\Projeto01\\Projeto01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
